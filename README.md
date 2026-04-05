@@ -67,45 +67,7 @@
 
 ---
 
-## **Setup Instructions** 🚀
 
-### **1. Clone the Repository**
-
-```bash
-git clone https://github.com/sayprincekumar20/studymate_bot_update.git
-cd studymate_bot_update
-```
-
-### **2. Create and Activate Virtual Environment**
-
-```bash
-python -m venv venv
-source venv/bin/activate   # On Windows: venv\Scripts\activate
-```
-
-### **3. Install Dependencies**
-
-```bash
-pip install -r requirements.txt
-```
-
-### **4. Set Up Environment Variables**
-
-Create a `.env` file in the project root:
-
-```ini
-GROQ_API_KEY=your_groq_api_key_here
-```
-
-> ⚠️ **Important**: `.env` is ignored via `.gitignore` to prevent leaking secrets.
-
-### **5. Run the App**
-
-```bash
-streamlit run app.py
-```
-
----
 
 ## **Usage Guide** 📖
 

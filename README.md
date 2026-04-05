@@ -1,6 +1,5 @@
 # StudyMate AI — Streamlit RAG Chatbot (Groq + Chroma + e5 embeddings)
 
-![StudyMate AI](https://images.unsplash.com/photo-1522202176988-66273c2fd55f?q=80\&w=1200\&auto=format\&fit=crop\&ixlib=rb-4.0.3)
 
 ---
 
@@ -152,37 +151,5 @@ studymate-ai/
 
 ---
 
-## **Screenshots** 🖼️
 
-### **Home Page**
 
-![StudyMate AI Screenshot](https://images.unsplash.com/photo-1522202176988-66273c2fd55f?q=80\&w=1200\&auto=format\&fit=crop\&ixlib=rb-4.0.3)
-
----
-
-## **License** 📜
-
-This project is licensed under the **MIT License**.
-
----
-
-## **Contributing** 🤝
-
-Contributions are welcome! Please fork the repository and submit a pull request.
-
----
-
-## **Author** 👨‍💻
-
-**Prince Kumar**
-📧 [sayprincekumar20@gmail.com](mailto:sayprincekumar20@gmail.com)
-
----
-
-## **Disclaimer** ⚠️
-
-This application automatically detects and skips sensitive information during processing, but users are responsible for ensuring **no secrets are exposed** in uploaded files.
-
----
-
-### 🌟 If you like this project, don't forget to **star** the repo!

@@ -1,0 +1,14 @@
+python-dotenv
+uv
+streamlit
+langchain
+langchain-community
+langchain
+sentence-transformers
+chromadb
+pypdf
+python-docx
+groq
+python-dotenv
+sentence-transformers[torch]
+langchain-huggingface
